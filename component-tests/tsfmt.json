@@ -1,0 +1,12 @@
+{
+  "indentSize": 2,
+  "tabSize": 2,
+  "convertTabsToSpaces": true,
+  "insertSpaceBeforeTypeAnnotation": false,
+  "insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": false,
+  "insertSpaceBeforeFunctionParenthesis": false,
+  "insertSpaceAfterCommaDelimiter": true,
+  "ar": false,
+  "placeOpenBraceOnNewLineForControlBlocks": false
+}
